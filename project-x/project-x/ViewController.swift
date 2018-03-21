@@ -1,14 +1,14 @@
 //
-//  FirstViewController.swift
-//  jmb
+//  ViewController.swift
+//  project-x
 //
-//  Created by Johann Pönitz on 21/3/18.
-//  Copyright © 2018 Johann Pönitz. All rights reserved.
+//  Created by David Knierell on 21.03.18.
+//  Copyright © 2018 David Knierell. All rights reserved.
 //
 
 import UIKit
 
-class FirstViewController: UIViewController {
+class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -22,5 +22,4 @@ class FirstViewController: UIViewController {
 
 
 }
-
 
